@@ -1,0 +1,499 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BALANCE BUZZ</title>
+    <style type="text/css">
+        body {
+            Margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+            font-family: 'Trebuchet MS';
+        }
+
+        table {
+            border-spacing: 0;
+        }
+
+        td {
+            padding: 0;
+        }
+
+        img {
+            border: 0;
+        }
+
+        .wrapper {
+            width: 100%;
+            table-layout: fixed;
+            background-color: #ffffff;
+            padding-bottom: 40px;
+            padding-top: 40px;
+            font-family: 'Trebuchet MS';
+
+        }
+
+        .webkit {
+            max-width: 600px;
+            background-color: #F6F1DE;
+            border-radius: 10px;
+
+        }
+
+        .outer {
+            margin: 0 auto;
+            width: 100%;
+            max-width: 600px;
+            border-spacing: 0px;
+            color: #4a4a4a;
+            border-radius: 50px;
+            font-family: 'Trebuchet MS';
+
+        }
+
+        .two-columns {
+            padding-top: 0px;
+            padding-bottom: 0px;
+            display: inline-block;
+        }
+
+        .two-columns .column {
+            width: 100%;
+            max-width: 300px;
+            vertical-align: top;
+
+        }
+
+        .two-columns .content {
+            font-size: 14px;
+            line-height: 20px;
+        }
+
+        .padding {
+            padding: 15px;
+        }
+
+        a {
+            text-decoration: underline;
+            color: #4DB786 !important;
+            font-size: 12px;
+            padding: 0px;
+            font-weight: 500;
+
+
+        }
+
+        @media screen and (max-width: 600px) {}
+
+        @media screen and (max-width: 400px) {}
+
+    </style>
+</head>
+
+<body>
+
+    <center class="wrapper">
+
+        <div class="webkit">
+            <table class="outer" align="center">
+                <tr>
+                    <td width="100%">
+
+                        <!--  START HEADER LOGO -->
+                        <table width="100%"
+                            style="border-spacing: 0; background-color: #F6F1DE; padding-top: 0px; max-width: 600px;">
+
+                            <tr>
+                                <td style="text-align: right;">
+                                    <img mc:edit width="300px" style="margin-right: -22px;  max-width: 300px;""
+                                        src=" https://i.ibb.co/pR5XpCT/Group-90.png" alt="">
+                                </td>
+                            </tr>
+
+                        </table>
+
+                        <!-- HEADER LOGO END  -->
+
+
+                        <!--  START SECTION ONE  -->
+                        <table width="100%"
+                            style="border-spacing: 0; background-color: #F6F1DE; padding-top: 0px; max-width: 600px; ">
+                            <tr>
+                                <td class="two-columns" style="display: flex">
+                                    <table class="column" style="max-width: 290px;">
+                                        <tr>
+                                            <td style="text-align: left;">
+
+                                                <div class="" style="position: relative;">
+                                                    <div>
+                                                        <img mc:edit width="300px"
+                                                            style="margin-left: -45px; vertical-align: top; margin-top: -41px; max-width: 300px;"
+                                                            src="https://i.ibb.co/MGnbMf1/Mask-Group-2.png" alt="">
+                                                    </div>
+
+
+                                                    <div mc:edit="$unique_name"
+                                                        style="background-color: #48BA87; width: 310px; border-radius: 0 30px 30px 0px;margin-left: -2px; position: absolute; top: 10%; height: 35px; line-height: 35px;">
+                                                        <span
+                                                            style="margin-left: 40px; color: #ffffff;padding: 0px; font-size: 14px; font-weight: bold;">
+                                                            #1 WHAT'S BUZZING AT BALANCE HR?.</span>
+                                                    </div>
+                                                </div>
+
+
+                                            </td>
+                                        </tr>
+                                    </table>
+
+                                    <table class="column" style="max-width: 300px;">
+                                        <tr>
+                                            <td style="text-align: left;">
+
+
+                                                <p mc:edit
+                                                    style=" font-size: 16px;  padding-top: 80px; line-height: 24px;">
+                                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum,
+                                                    id
+                                                    et impedit aliquam harum voluptas inventore eligendi animi ad quod
+                                                    corporis fuga totam rerum voluptatem veritatis dolores, ea nihil
+                                                    quos?</p>
+                                                <img mc:edit width="15px"
+                                                    style="margin-top: 70px; bottom: 0; max-width: 15px;"
+                                                    src="https://i.ibb.co/mB260Yd/Path-6.png" alt="">
+                                                <img mc:edit width="100px" style="float: right; max-width: 100px;"
+                                                    src="https://i.ibb.co/grGr1Kx/Group-10.png" alt="">
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!--  END SECTION ONE  -->
+
+
+                        <!-- START SECTION TWO -->
+                        <table width="100%"
+                            style="border-spacing: 0; background-color: #F6F1DE; padding-top: 0px; max-width: 600px;">
+
+                            <tr>
+                                <td class="" style="text-align: left; padding-right: 20px;">
+                                    <h2 mc:edit style="color: #165A7E; padding-left: 30px;">#2 DID YOU KNOW?...</h2>
+
+                                    <p mc:edit style="line-height: 24px; padding-left: 30px;">Lorem ipsum dolor sit amet
+                                        consectetur adipisicing
+                                        elit. Sed reiciendis id
+                                        incidunt molestiae quas nesciunt amet ullam, assumenda sequi officiis unde,
+                                        temporibus tenetur suscipit at architecto. Cupiditate ipsa sunt ducimus!
+                                    </p>
+
+                                </td>
+                                <td style="height: 280px;">
+                                    <div style="background-image: url(https://i.ibb.co/5kF8fnQ/Group-22.png); background-repeat: no-repeat; background-size: cover; padding: 240px 60px 50px 60px; ">
+
+                                        <img mc:edit width="50px"
+                                            style=" vertical-align: top; height: inherit; max-width: 50px;"
+                                            src="https://i.ibb.co/mzrQMD3/Group-26.png" alt="">
+                                    </div>
+
+                                </td>
+                            </tr>
+
+                        </table>
+                        <!-- END SECTION TWO -->
+
+                        <!-- START SECTION THREE 1 -->
+                        <table width="100%"
+                            style="border-spacing: 0; background-color: #F6F1DE; padding-top: 0px; max-width: 600px;">
+
+                            <tr>
+                                <td class="" style="text-align: left;">
+                                    <div
+                                        style="background-color: #48BA87; width: 150px; border-radius: 0 30px 30px 0px;margin-left: -2px;height: 35px; line-height: 35px;">
+                                        <p mc:edit
+                                            style="margin-left: 40px; color: #ffffff;padding: 0px; font-size: 14px; font-weight: bold;">
+                                            #3 INSIGTHS.</p>
+                                    </div>
+                                    <p mc:edit style="padding-left: 30px; margin-top: 41px;">WAT IS ER NIEUW OP ONZE
+                                        BLOG? <a mc:edit href="#" style="color: #4DB786 !important;font-size: 16px;">JE LEEST HET
+                                            HIER</a></p>
+                                </td>
+
+                            </tr>
+
+                        </table>
+                        <!-- END SECTION THREE 1 -->
+
+                        <!-- START SECTION THREE 2 -->
+
+                        <table width="100%"
+                            style="border-spacing: 0; background-color: #F6F1DE; padding-top: 30px; padding-bottom: 30px; max-width: 600px;">
+                            <tr>
+                                <td class="two-columns" style="display: flex">
+                                    <table class="column"
+                                        style="max-width: 400px; background-image: url(https://i.ibb.co/L8zVSgN/Text-background-shape-1.png); background-repeat: no-repeat; background-size: cover; padding-top: 50px;padding-bottom: 25px; border-radius: 0 30px 30px 0;">
+                                        <tr>
+                                            <td class=""
+                                                style=" padding-top: 0px;text-align: left;  padding-right: 20px;">
+
+                                                <h4 mc:edit
+                                                    style="color: #11587D;font-weight: bold; line-height: 27px; padding-left: 30px;">
+                                                    BRECHT
+                                                    SANTENS JOINS BALANCE HR AS ASSOCIATE PARTNER</h4>
+
+                                                <p mc:edit
+                                                    style="line-height: 24px; padding-left: 30px; font-size: 16px; padding-right: 30px;">
+                                                    Lorem ipsum dolor sit
+                                                    amet consectetur adipisicing elit. Sed reiciendis id
+                                                    incidunt molestiae quas nesciunt amet.
+                                                </p>
+
+                                                <a mc:edit href="#"
+                                                    style="color: #4DB786 !important;font-size: 16px; font-weight: bold; margin-left: 30px !important;">LEES
+                                                    MEER</a>
+
+
+                                            </td>
+                                        </tr>
+                                    </table>
+
+                                    <table class="column" style="max-width: 200px;">
+                                        <tr>
+                                            <td style="">
+
+                                                <img mc:edit width="200px" style=" vertical-align: top; height: auto; margin-top: -53px; max-width: 200px;
+                                                margin-left: -45px;" src="https://i.ibb.co/qyckrNx/Mask-Group-1.png"
+                                                    alt="">
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- END SECTION THREE 2 -->
+
+                        <!-- START SECTION FOUR  -->
+
+                        <table width="100%"
+                            style="border-spacing: 0; background-color: #F6F1DE; padding-top: 0px; padding-bottom: 0px; max-width: 600px;">
+                            <tr>
+                                <td class="two-columns" style="display: flex">
+                                    <table class="column" style="max-width: 350px;">
+                                        <tr>
+                                            <td class=""
+                                                style=" padding-top: 0px;text-align: left; padding-right: 0px;">
+
+                                                <h2 mc:edit
+                                                    style="color: #11587D;font-weight: bold; line-height: 27px; padding-left: 30px;">
+                                                    #4 ON
+                                                    OUR CALENDAR</h2>
+
+                                                <h4 mc:edit
+                                                    style="color: #222;font-weight: bold; line-height: 27px; padding-left: 30px; margin-bottom: 0px;">
+                                                    WORKSHOP: CHANGE AT WORK</h4>
+
+                                                <p mc:edit
+                                                    style="line-height: 24px; font-size: 16px; margin: 0; padding-left: 30px;">
+                                                    Lorem ipsum
+                                                    dolor sit amet consectetur adipisicing elit. Sed reiciendis id
+                                                    incidunt molestiae quas nesciunt amet.
+                                                </p>
+                                                <br>
+                                                <a mc:edit href="#"
+                                                    style="color: #4DB786 !important;font-size: 16px; font-weight: bold; margin-top: 20px; padding-left: 30px !important;">LEES
+                                                    MEER</a>
+
+
+                                            </td>
+                                        </tr>
+                                    </table>
+
+                                    <table class="column" style="max-width: 250px;">
+                                        <tr>
+                                            <td style="text-align: right;">
+
+                                                <img mc:edit width="200px"
+                                                    style=" vertical-align: top; max-width: 200px;"
+                                                    src="https://i.ibb.co/2PTYTr4/Group-49.png" alt="">
+                                                <img mc:edit width="80px"
+                                                    style=" vertical-align: top; margin-top: -68px; max-width: 80px;"
+                                                    src="https://i.ibb.co/q7gZQKG/Group-50.png" alt="">
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- END SECTION FOUR -->
+
+
+                        <!-- START SECTION FIVE -->
+                        <table width="100%"
+                            style="border-spacing: 0; background-color: #F6F1DE; padding-top: 50px; padding-bottom: 70px; max-width: 600px;">
+
+                            <tr>
+                                <td style="padding-left: 0px;">
+                                    <div
+                                        style="background-color: #48BA87; width: 220px; border-radius: 0 30px 30px 0px;margin-left: -2px;height: 35px; line-height: 35px;">
+                                        <p mc:edit
+                                            style="margin-left: 40px; color: #ffffff;padding: 0px; font-size: 14px; font-weight: bold;">
+                                            #6 BEHIND THE SCENCES</p>
+                                    </div>
+                                    <img mc:edit width="300px" style=" vertical-align: top; height: auto; margin-top: 0px; padding-left: 30px;
+                                    max-width: 300px;" src="https://i.ibb.co/BTn4CTr/Group-55.png" alt="">
+
+                                </td>
+                                <td class=""
+                                    style=" padding-top: 0px;text-align: left; padding-left: 0px; padding-right: 0px;">
+
+                                    
+                                        <div class=""
+                                        style="background-image: url(https://i.ibb.co/QDCgpZ6/Group-63.png); background-repeat: no-repeat; background-size: cover; width: 100%; height: 100%; margin-right: 30px; ">
+                                           
+                                            <p mc:edit
+                                                style="line-height: 24px; font-size: 16px; padding: 45px;">
+                                                Lorem ipsum dolor sit
+                                                amet consectetur adipisicing elit. Sed reiciendis id
+                                                incidunt molestiae quas nesciunt amet.
+                                            </p>
+
+                                        </div>
+                                        <img mc:edit width="50px"
+                                            style="float: right; margin-right: 50px;padding-top: 70px; max-width: 50px;"
+                                            src="https://i.ibb.co/G2y5WZV/Group-56.png" alt="">
+                                    
+                                </td>
+                            </tr>
+
+                        </table>
+                        <!-- END SECTION FIVE -->
+                        <!-- test -->
+
+
+                        <!-- START SECTION SIX -->
+                        <table width="100%"
+                            style="border-spacing: 0; background-color: #F6F1DE; padding-top: 0px; max-width: 600px;">
+
+                            <tr>
+                                <td class="" style="text-align: left;
+                                 padding-right: 20px;">
+                                    <h2 mc:edit style="color: #165A7E; padding-left: 30px;">#6 WHAT’S ON OUR MINDS</h2>
+                                    <h4 mc:edit
+                                        style="color: #222;font-weight: bold; line-height: 27px; margin-bottom: 0px; padding-left: 30px;">
+                                        WORKSHOP: CHANGE AT WORK</h4>
+                                    <p mc:edit style="line-height: 24px; margin: 0; padding-left: 30px;">Lorem ipsum
+                                        dolor sit amet consectetur
+                                        adipisicing
+                                        elit. Sed reiciendis id
+                                        incidunt molestiae quas nesciunt amet ullam, assumenda sequi officiis unde,
+                                        temporibus tenetur suscipit at architecto. Cupiditate ipsa sunt ducimus!
+                                    </p>
+                                    <br>
+                                    <a mc:edit href="#"
+                                        style="color: #4DB786 !important;font-size: 16px; font-weight: bold; margin-top: 20px; margin-left: 30px !important;">LEES
+                                        MEER</a>
+
+                                </td>
+                            </tr>
+
+                        </table>
+                        <!-- END SECTION SIX -->
+
+                        <!-- START SECTION SEVEN  -->
+
+                        <table width="100%"
+                            style="border-spacing: 0; background-color: #F6F1DE; padding-top: 70px; padding-bottom: 50px; max-width: 600px; ">
+                            <tr>
+                                <td class="two-columns" style="display: flex">
+
+
+                                    <table class="column" style="max-width: 300px;">
+                                        <tr>
+                                            <td style="text-align: left;">
+                                                <div
+                                                    style="background-color: #48BA87; width: 230px; border-radius: 0 30px 30px 0px;margin-left: -2px;height: 35px; line-height: 35px;">
+                                                    <p mc:edit
+                                                        style="margin-left: 40px; color: #ffffff;padding: 0px; font-size: 14px; font-weight: bold;">
+                                                        # WHAT'S MY NUMBER?.</p>
+                                                </div>
+                                                <img mc:edit width="300px"
+                                                    style=" vertical-align: top; margin-left: -20px; max-width: 300px;"
+                                                    src="https://i.ibb.co/bbbzwGb/Group-63.png" alt="">
+
+                                            </td>
+                                        </tr>
+                                    </table>
+
+                                    <table class="column" style="max-width: 300px;">
+                                        <tr>
+                                            <td class=""
+                                                style=" padding-top: 0px;text-align: left; padding-left: 0px; padding-right: 30px;">
+
+
+                                                <h4 mc:edit
+                                                    style="color: #222;font-weight: bold; line-height: 27px; margin-bottom: 0px; text-transform: uppercase;">
+                                                    Lorem ipsum
+                                                    dolor sit amet</h4>
+
+                                                <p mc:edit
+                                                    style="line-height: 24px; font-size: 16px; margin: 0; padding-right: 10px;">
+                                                    Lorem ipsum
+                                                    dolor sit amet consectetur adipisicing elit. Sed reiciendis id
+                                                    incidunt molestiae quas nesciunt amet.
+                                                </p>
+
+                                            </td>
+                                        </tr>
+                                    </table>
+
+
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- END SECTION SEVEN -->
+
+                        <!--  START HEADER LOGO -->
+                        <table width="100%"
+                            style="border-spacing: 0; background-color: #F6F1DE; padding-top: 20px; padding-bottom: 50px; max-width: 600px;">
+
+                            <tr>
+                                <td> 
+                                    <div class="">
+                                        <div mc:edit="left_content" class=""
+                                            style="background-image: url(https://i.ibb.co/WfjkPZL/CTA.png); background-repeat: no-repeat; background-size: cover; width: 600px; height: 420px; ">
+
+                                             <h2 mc:edit class="heading"
+                                                style="font-size: 18px;  line-height: 24px;  font-weight: bold; padding: 20px;color: #fff; margin: 0;  padding-top: 102px; ">
+                                                CALL TO ACTION
+                                                 </h2>
+
+                                             <a mc:edit href="#"
+                                                style="color: #4DB786 !important;font-size: 18px; font-weight: bold; margin-top: 20px; text-decoration: none; border-bottom: 3px solid #4DB786; margin: 0 20px; display: inline-block;">
+                                                CALL TO ACTION</a>
+
+                                        </div>
+                                    </div>
+                                    <p mc:edit
+                                        style="text-align: center; color: #11587D; line-height: 20px; font-weight: bold; font-size: 10px; margin-top: 30px;">
+                                        WANT TO CHANGE HOW YOU RECEIVE THESE EMAILS? <br> YOU CAN UPDATE YOUR
+                                        PREFERANCES OR UNSUBSCRIBE FROM THIS LIST</p>
+                                </td>
+                            </tr>
+
+                        </table>
+
+                        <!-- HEADER LOGO END  -->
+                        <!-- footer end -->
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </center>
+</body>
+
+</html>
